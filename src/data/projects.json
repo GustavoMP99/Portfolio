@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Biomaderas",
+    "imageSrc": "projects/biomaderas.png",
+    "description": "This was a freelance project for a wood company.",
+    "skills": ["React", "HTML", "Node", "CSS"],
+    "demo": "https://biomaderasfinasdelsur.com",
+    "source": "https://github.com/GustavoMP99/biomaderas"
+  },
+  {
+    "title": "Pokedex",
+    "imageSrc": "projects/pokedex.png",
+    "description": "This was a fun project that helped me learn how to use an API.",
+    "skills": ["Javascript", "API", "CSS", "HTML"],
+    "demo": "https://gustavomp99.github.io/Pokedex/src/index.html",
+    "source": "https://github.com/GustavoMP99/Pokedex"
+  },
+
+  {
+    "title": "LaraTropicals",
+    "imageSrc": "projects/laratropicals.png",
+    "description": "This was a freelance project for a fruit company.",
+    "skills": ["Java", "WordPress", "PHP"],
+    "demo": "https://laratropicals.com",
+    "source": ""
+  },
+  {
+    "title": "Cafeteria Hogareña",
+    "imageSrc": "projects/cafeteria.png",
+    "description": "A project for a course at the college where I worked with a team and a client.",
+    "skills": ["React", "Node", "FireBase"],
+    "demo": "https://cafeteriahogarena.web.app",
+    "source": "https://github.com/AnthonyGriffithG/Cafeteria"
+  }
+]

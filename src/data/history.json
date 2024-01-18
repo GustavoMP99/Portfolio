@@ -1,0 +1,18 @@
+[
+  {
+    "role": "FullStack Javascript Developer",
+    "organisation": "Midware",
+    "startDate": "Jun, 2022",
+    "endDate": "Oct, 2023",
+    "experiences": ["Worked on Netsuite for intenational companies", "Reduced workload by 30%"],
+    "imageSrc": "history/midware.png"
+  },
+  {
+    "role": "Intern Software Developer",
+    "organisation": "ICE",
+    "startDate": "Oct, 2018",
+    "endDate": "Dec, 2018",
+    "experiences": ["IT Manager", "Created inventory Java app"],
+    "imageSrc": "history/ice.png"
+  }
+]
